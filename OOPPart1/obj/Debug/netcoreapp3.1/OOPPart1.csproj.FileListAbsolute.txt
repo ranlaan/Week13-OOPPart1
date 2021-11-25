@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGitpe21\OOPPart1\OOPPart1\bin\Debug\netcoreapp3.1\OOPPart1.exe
+C:\Users\opilane\source\repos\LOGitpe21\OOPPart1\OOPPart1\bin\Debug\netcoreapp3.1\OOPPart1.deps.json
+C:\Users\opilane\source\repos\LOGitpe21\OOPPart1\OOPPart1\bin\Debug\netcoreapp3.1\OOPPart1.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGitpe21\OOPPart1\OOPPart1\bin\Debug\netcoreapp3.1\OOPPart1.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGitpe21\OOPPart1\OOPPart1\bin\Debug\netcoreapp3.1\OOPPart1.dll
+C:\Users\opilane\source\repos\LOGitpe21\OOPPart1\OOPPart1\bin\Debug\netcoreapp3.1\OOPPart1.pdb
+C:\Users\opilane\source\repos\LOGitpe21\OOPPart1\OOPPart1\obj\Debug\netcoreapp3.1\OOPPart1.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGitpe21\OOPPart1\OOPPart1\obj\Debug\netcoreapp3.1\OOPPart1.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\OOPPart1\OOPPart1\obj\Debug\netcoreapp3.1\OOPPart1.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGitpe21\OOPPart1\OOPPart1\obj\Debug\netcoreapp3.1\OOPPart1.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\OOPPart1\OOPPart1\obj\Debug\netcoreapp3.1\OOPPart1.dll
+C:\Users\opilane\source\repos\LOGitpe21\OOPPart1\OOPPart1\obj\Debug\netcoreapp3.1\OOPPart1.pdb
+C:\Users\opilane\source\repos\LOGitpe21\OOPPart1\OOPPart1\obj\Debug\netcoreapp3.1\OOPPart1.genruntimeconfig.cache
